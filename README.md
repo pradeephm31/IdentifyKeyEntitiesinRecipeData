@@ -9,16 +9,16 @@
 
 ## General Information
 1. Data Preparation end EDA	
-	- This step involves generation token, categorize tokens to labels(unit, ingredient, quantity) and perform analayis  
+	- This step involves token generation, categorize tokens to labels(unit, ingredient, quantity) and perform analayis  
 
 2. Feature Extraction for CRF and Training
-	- Creation of feature dictionary , weight dict , extarction of features with class weights and CRF Model Train
+	- Creation of feature dictionary , weight dict , extraction of features with class weights and CRF Model Train
 
 3. Prediction nad Model Evaluation
-	- Evaluate the Model both and train and validation data
+	- Evaluate the Model for train and validation data
    
 4. Error Analysis on Validation Data 
-	- Perform Errpr Analysis of the Validation Data
+	- Perform Error Analysis of the Validation Data
 
 
 
